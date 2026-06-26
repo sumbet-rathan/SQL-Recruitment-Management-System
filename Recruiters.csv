@@ -1,0 +1,26 @@
+recruiter_id,recruiter_name,email,phone,team,manager,experience_years,joining_date,status
+1,Alex Johnson,alex.johnson@staffpro.com,389-555-1001,IT Staffing,Michael Grant,6.5,2015-01-03,Active
+2,Maria Santos,maria.santos@staffpro.com,218-555-1002,Healthcare,Susan Blake,3.3,2016-10-10,Active
+3,Kevin Lee,kevin.lee@staffpro.com,272-555-1003,Finance,Karen Fox,10.6,2020-07-25,Active
+4,Priya Sharma,priya.sharma@staffpro.com,339-555-1004,Finance,Karen Fox,8.4,2016-09-05,Active
+5,Tom Williams,tom.williams@staffpro.com,275-555-1005,IT Staffing,Michael Grant,7.5,2023-06-07,Active
+6,Rachel Green,rachel.green@staffpro.com,835-555-1006,Healthcare,Susan Blake,6.4,2021-05-09,Active
+7,David Park,david.park@staffpro.com,615-555-1007,Healthcare,Michael Grant,7.4,2020-11-13,Active
+8,Lisa Monroe,lisa.monroe@staffpro.com,420-555-1008,IT Staffing,Michael Grant,3.2,2020-07-02,Active
+9,Chris Evans,chris.evans@staffpro.com,436-555-1009,IT Staffing,Michael Grant,9.9,2017-01-29,Active
+10,Nadia Ali,nadia.ali@staffpro.com,648-555-1010,Energy/Pharma,Karen Fox,5.6,2015-04-26,Active
+11,Sam Rodriguez,sam.rodriguez@staffpro.com,547-555-1011,Healthcare,Karen Fox,7.6,2020-12-12,Inactive
+12,Diana Chen,diana.chen@staffpro.com,836-555-1012,IT Staffing,Susan Blake,8.3,2019-09-18,Active
+13,Marcus Brown,marcus.brown@staffpro.com,442-555-1013,Finance,Karen Fox,11.3,2022-01-28,Inactive
+14,Tanya Scott,tanya.scott@staffpro.com,915-555-1014,Healthcare,Karen Fox,4.7,2016-04-17,Inactive
+15,Ryan Murphy,ryan.murphy@staffpro.com,293-555-1015,IT Staffing,Karen Fox,9.6,2018-09-08,Active
+16,Anita Kapoor,anita.kapoor@staffpro.com,392-555-1016,Pharma,Michael Grant,11.5,2022-07-15,Inactive
+17,James Wilson,james.wilson@staffpro.com,852-555-1017,Finance,Susan Blake,3.4,2016-05-25,Active
+18,Elena Petrov,elena.petrov@staffpro.com,246-555-1018,IT Staffing,Michael Grant,2.8,2015-10-11,Active
+19,Carlos Diaz,carlos.diaz@staffpro.com,224-555-1019,Healthcare,Susan Blake,6.6,2019-03-29,Active
+20,Mei Zhang,mei.zhang@staffpro.com,489-555-1020,IT Staffing,Karen Fox,8.2,2018-03-09,Active
+21,Patrick O'Brien,patrick.o'brien@staffpro.com,207-555-1021,Finance,Karen Fox,2.0,2016-07-28,Active
+22,Sunita Rao,sunita.rao@staffpro.com,774-555-1022,Healthcare,Susan Blake,5.7,2018-06-20,Inactive
+23,Brett Taylor,brett.taylor@staffpro.com,881-555-1023,IT Staffing,Susan Blake,6.7,2018-05-04,Inactive
+24,Fatima Hassan,fatima.hassan@staffpro.com,658-555-1024,Energy,Karen Fox,6.2,2018-06-21,Active
+25,George Kim,george.kim@staffpro.com,629-555-1025,Manufacturing,Michael Grant,5.5,2018-11-24,Active

@@ -1,0 +1,51 @@
+client_id,client_name,industry,account_manager,city,state,country,contract_type,created_date,status
+1,TechNova Solutions,Healthcare,Sarah Mitchell,Nashville,TN,USA,MSP,2021-01-31,Active
+2,HealthCare United,Finance,James Patel,Chicago,IL,USA,MSP,2018-12-23,Inactive
+3,FinServ Corp,IT,James Patel,Dallas,TX,USA,MSP,2020-08-10,Active
+4,MedStar Group,Pharma,David Yuen,Columbus,OH,USA,Direct,2020-06-21,Inactive
+5,DataSphere Inc,Energy,Sarah Mitchell,Detroit,MI,USA,MSP,2022-09-28,Active
+6,GlobalBank NA,Finance,Brian Kim,Seattle,WA,USA,VMS,2019-02-23,Active
+7,Apex Manufacturing,Healthcare,Jennifer Walsh,Boston,MA,USA,VMS,2020-12-19,Active
+8,CyberShield LLC,Telecom,David Yuen,Newark,NJ,USA,Direct,2022-03-31,Active
+9,NovaCare Hospital,Energy,Karen Fox,Columbus,OH,USA,VMS,2020-02-27,Active
+10,IntelliSoft Corp,Pharma,Robert Chen,Dallas,TX,USA,Direct,2020-08-11,Active
+11,Meridian Energy,Energy,Susan Blake,Boston,MA,USA,MSP,2022-02-03,Active
+12,PharmaGen Inc,Manufacturing,Brian Kim,McLean,VA,USA,MSP,2020-12-29,Active
+13,BlueCross Partners,Finance,David Yuen,Phoenix,AZ,USA,MSP,2020-09-29,Active
+14,CapitalOne Ventures,Retail,Robert Chen,Denver,CO,USA,MSP,2020-06-18,Active
+15,NetLogic Systems,IT,Brian Kim,Baltimore,MD,USA,Direct,2021-07-16,Inactive
+16,CloudMatrix Inc,Healthcare,Brian Kim,Seattle,WA,USA,Direct,2021-07-12,Active
+17,Optimus Health,Telecom,Michael Grant,Nashville,TN,USA,MSP,2023-02-23,Active
+18,Sterling Finance,Finance,Brian Kim,Seattle,WA,USA,MSP,2020-12-12,Inactive
+19,NexGen Pharma,Retail,Jennifer Walsh,Detroit,MI,USA,MSP,2019-07-21,Inactive
+20,TrueEnergy LLC,IT,James Patel,Houston,TX,USA,MSP,2019-10-18,Inactive
+21,Vertex Systems,Healthcare,Michael Grant,Phoenix,AZ,USA,Direct,2023-04-02,Active
+22,Pinnacle Medical,IT,James Patel,Columbus,OH,USA,MSP,2020-12-28,Active
+23,AlphaBank Corp,Energy,Michael Grant,San Jose,CA,USA,MSP,2023-02-02,Active
+24,BioTech Partners,Energy,David Yuen,Newark,NJ,USA,MSP,2023-09-11,Active
+25,Quantum IT,Energy,David Yuen,Nashville,TN,USA,Direct,2020-03-25,Active
+26,Horizon Healthcare,Finance,David Yuen,McLean,VA,USA,Direct,2018-01-03,Active
+27,Summit Finance,IT,James Patel,Orlando,FL,USA,VMS,2021-06-13,Active
+28,CoreLogic Corp,Pharma,Karen Fox,Dallas,TX,USA,Direct,2018-12-17,Inactive
+29,Aegis Insurance,Insurance,Linda Torres,Houston,TX,USA,MSP,2023-05-01,Active
+30,SwiftLogistics,Insurance,Karen Fox,Seattle,WA,USA,Direct,2020-05-17,Active
+31,Pacific Tech,Energy,Michael Grant,Portland,OR,USA,MSP,2022-03-10,Inactive
+32,Midwest Health,Telecom,James Patel,Miami,FL,USA,MSP,2020-07-09,Active
+33,Atlantic Finance,IT,Karen Fox,Charlotte,NC,USA,Direct,2020-07-31,Active
+34,Keystone Pharma,Healthcare,Sarah Mitchell,Austin,TX,USA,MSP,2018-10-04,Active
+35,Cascade Energy,Healthcare,David Yuen,Charlotte,NC,USA,MSP,2021-02-14,Inactive
+36,Redwood Systems,Insurance,Linda Torres,New York,NY,USA,MSP,2023-04-21,Active
+37,Prairie Health,Retail,Brian Kim,Orlando,FL,USA,Direct,2019-02-02,Inactive
+38,Lakeshore Finance,Retail,Michael Grant,McLean,VA,USA,Direct,2018-08-10,Active
+39,Mountain Pharma,Retail,Jennifer Walsh,Dallas,TX,USA,Direct,2020-10-15,Active
+40,Coastal Energy,Insurance,Susan Blake,New York,NY,USA,MSP,2022-09-25,Active
+41,Digital Nexus,Telecom,Brian Kim,Seattle,WA,USA,Direct,2022-12-21,Active
+42,CareFirst Medical,Insurance,Sarah Mitchell,Dallas,TX,USA,Direct,2020-08-26,Active
+43,TrustBank USA,Telecom,Susan Blake,Philadelphia,PA,USA,MSP,2022-07-01,Active
+44,LifeSci Corp,Retail,Sarah Mitchell,San Francisco,CA,USA,Direct,2020-12-22,Inactive
+45,PowerGrid Inc,Retail,David Yuen,Atlanta,GA,USA,MSP,2023-06-17,Active
+46,Synapse IT,Energy,Brian Kim,New York,NY,USA,Direct,2018-09-07,Active
+47,WellStar Health,IT,Karen Fox,Dallas,TX,USA,Direct,2023-08-22,Active
+48,Crestview Capital,Insurance,James Patel,Dallas,TX,USA,MSP,2018-10-08,Active
+49,BioMed Innovations,Pharma,Michael Grant,Minneapolis,MN,USA,Direct,2020-10-05,Active
+50,Orbit Telecom,Healthcare,Michael Grant,Phoenix,AZ,USA,MSP,2023-11-12,Active

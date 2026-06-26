@@ -1,0 +1,144 @@
+interview_id,submission_id,round_number,interview_type,interview_date,interviewer,result,remarks
+1,657,2,HR,2024-01-18,Nina Patel,No Show,Good communication
+2,740,3,Technical,2024-05-24,Hiring Manager,Rescheduled,Excellent fit
+3,81,2,Phone Screen,2023-01-28,Tech Architect,Pass,Below expectations
+4,992,2,Phone Screen,2023-06-11,Tech Architect,Pass,Good communication
+5,404,1,Technical,2024-05-22,Jane Doe,Rescheduled,Good communication
+6,668,1,Video,2023-11-09,Hiring Manager,Pass,Excellent fit
+7,107,3,Panel,2023-09-12,Scott Adams,Rescheduled,Needs improvement
+8,806,1,Video,2022-09-15,Dev Lead,Rescheduled,Technical skills verified
+9,859,1,Video,2023-02-11,Mark Stevens,Rescheduled,Technical skills verified
+10,855,1,Video,2022-07-28,Tech Architect,Pass,Technical skills verified
+11,808,1,Panel,2023-02-15,Nina Patel,No Show,Below expectations
+12,89,2,Phone Screen,2023-07-02,Hiring Manager,Pass,Excellent fit
+13,65,2,Technical,2023-12-04,Alice Grant,Pass,Good communication
+14,232,1,Technical,2023-09-08,Tech Architect,Rescheduled,Strong candidate
+15,463,2,Video,2022-08-12,Nina Patel,Pass,Needs improvement
+16,996,2,Video,2022-09-25,Scott Adams,Pass,Excellent fit
+17,620,2,Technical,2023-11-01,Dev Lead,Pass,Below expectations
+18,744,3,Final,2023-05-13,Dev Lead,No Show,Below expectations
+19,182,2,Final,2023-09-23,Scott Adams,Fail,Needs improvement
+20,254,3,Final,2022-11-19,Hiring Manager,Fail,Excellent fit
+21,609,1,Phone Screen,2024-02-21,Alice Grant,Pass,Good communication
+22,962,2,Panel,2024-05-16,Hiring Manager,Rescheduled,Below expectations
+23,845,1,Final,2023-10-04,HR Team,Pass,Technical skills verified
+24,25,1,Video,2022-08-28,VP Engineering,No Show,Below expectations
+25,194,1,Phone Screen,2022-09-01,VP Engineering,No Show,Below expectations
+26,735,2,HR,2023-11-11,Alice Grant,Pass,Technical skills verified
+27,947,2,Video,2023-09-11,Dev Lead,No Show,Strong candidate
+28,269,2,Technical,2023-02-17,CTO Panel,Pass,Below expectations
+29,599,2,Video,2023-08-09,Dev Lead,Pass,Technical skills verified
+30,698,3,Phone Screen,2024-04-09,Alice Grant,Fail,Below expectations
+31,35,1,Video,2023-09-02,Alice Grant,Pass,Technical skills verified
+32,838,2,HR,2022-10-22,Mark Stevens,Pass,Technical skills verified
+33,331,2,Phone Screen,2024-03-14,Jane Doe,Pass,Below expectations
+34,286,2,HR,2024-05-30,CTO Panel,Fail,Below expectations
+35,108,3,Technical,2023-08-09,Dev Lead,No Show,Excellent fit
+36,23,3,Video,2023-06-27,Tech Architect,Pass,Good communication
+37,553,3,Video,2022-12-24,Hiring Manager,Pass,Excellent fit
+38,673,1,Technical,2023-08-05,CTO Panel,Pass,Good communication
+39,583,1,Final,2023-05-03,Nina Patel,No Show,Technical skills verified
+40,188,2,HR,2023-08-05,Nina Patel,Rescheduled,Strong candidate
+41,530,1,Final,2023-07-28,Jane Doe,Fail,Below expectations
+42,193,3,Panel,2023-05-12,HR Team,Pass,Below expectations
+43,944,3,HR,2023-06-13,Tech Architect,Pass,Strong candidate
+44,142,2,Technical,2023-05-29,Alice Grant,Pass,Needs improvement
+45,399,3,Technical,2024-02-27,Tech Architect,Pass,Strong candidate
+46,243,2,Video,2023-11-15,Dev Lead,Pass,Technical skills verified
+47,138,1,Panel,2023-05-19,Bob Chen,Pass,Excellent fit
+48,557,3,Video,2023-12-16,Mark Stevens,Pass,Needs improvement
+49,965,2,Panel,2023-03-14,Nina Patel,Pass,Good communication
+50,767,1,Phone Screen,2023-12-23,Scott Adams,Pass,Good communication
+51,535,2,HR,2023-05-11,Nina Patel,No Show,Technical skills verified
+52,848,3,Panel,2022-11-21,CTO Panel,Pass,Technical skills verified
+53,374,2,Phone Screen,2022-12-01,Mark Stevens,Pass,Needs improvement
+54,964,1,Panel,2022-09-21,Hiring Manager,Pass,Excellent fit
+55,321,2,Video,2024-05-08,HR Team,Fail,Strong candidate
+56,327,1,HR,2023-03-20,Dev Lead,Pass,Excellent fit
+57,360,2,Video,2024-03-27,VP Engineering,Pass,Technical skills verified
+58,827,1,Video,2023-03-17,Alice Grant,No Show,Technical skills verified
+59,707,1,Video,2022-09-03,Tech Architect,Pass,Technical skills verified
+60,98,3,Final,2023-07-10,Bob Chen,Pass,Technical skills verified
+61,621,3,Technical,2022-12-29,Dev Lead,Pass,Needs improvement
+62,501,2,Panel,2022-09-23,Hiring Manager,Fail,Excellent fit
+63,817,2,HR,2024-05-20,Dev Lead,Rescheduled,Below expectations
+64,101,3,HR,2023-01-23,Jane Doe,Fail,Needs improvement
+65,503,2,Technical,2023-09-03,CTO Panel,Pass,Good communication
+66,846,2,Video,2022-12-26,Jane Doe,Fail,Needs improvement
+67,489,3,Technical,2022-12-06,Nina Patel,No Show,Strong candidate
+68,910,2,Phone Screen,2023-05-27,Bob Chen,Pass,Technical skills verified
+69,641,1,Final,2023-04-08,Nina Patel,Pass,Strong candidate
+70,959,1,HR,2024-01-21,Bob Chen,No Show,Technical skills verified
+71,613,1,Video,2024-01-24,Nina Patel,Pass,Below expectations
+72,351,2,Phone Screen,2023-10-25,Tech Architect,Pass,Strong candidate
+73,348,2,Technical,2024-06-11,Tech Architect,Pass,Strong candidate
+74,989,2,Technical,2023-12-29,Mark Stevens,Rescheduled,Technical skills verified
+75,458,1,Panel,2023-10-18,HR Team,No Show,Good communication
+76,441,2,Phone Screen,2023-09-15,Tech Architect,No Show,Strong candidate
+77,389,1,Technical,2022-08-27,Nina Patel,Fail,Good communication
+78,252,3,Panel,2024-04-11,CTO Panel,No Show,Below expectations
+79,647,1,Video,2022-07-13,HR Team,Pass,Strong candidate
+80,841,3,HR,2022-12-31,VP Engineering,Pass,Good communication
+81,957,2,Technical,2023-05-13,Hiring Manager,No Show,Below expectations
+82,594,3,Panel,2023-12-05,HR Team,Fail,Below expectations
+83,271,2,HR,2023-01-30,Bob Chen,Pass,Needs improvement
+84,718,1,Video,2023-12-17,VP Engineering,Pass,Below expectations
+85,926,1,HR,2023-07-30,Mark Stevens,Fail,Good communication
+86,766,3,Phone Screen,2024-04-07,Mark Stevens,Pass,Technical skills verified
+87,500,2,Final,2024-04-06,Alice Grant,Rescheduled,Good communication
+88,173,2,Panel,2022-08-10,HR Team,Rescheduled,Excellent fit
+89,388,3,Phone Screen,2022-09-05,Alice Grant,Fail,Good communication
+90,598,2,Phone Screen,2023-08-15,Mark Stevens,No Show,Strong candidate
+91,339,2,Video,2023-08-12,CTO Panel,Pass,Technical skills verified
+92,355,1,Final,2022-07-01,Alice Grant,Pass,Needs improvement
+93,687,2,Final,2022-12-26,Jane Doe,Pass,Needs improvement
+94,796,3,Phone Screen,2023-09-03,Jane Doe,Pass,Strong candidate
+95,976,3,Panel,2023-03-22,Hiring Manager,Rescheduled,Needs improvement
+96,156,2,Panel,2023-12-18,Dev Lead,Fail,Strong candidate
+97,574,2,Technical,2022-08-16,Bob Chen,Pass,Below expectations
+98,308,1,Final,2023-12-31,Tech Architect,No Show,Good communication
+99,379,2,Technical,2022-10-08,Hiring Manager,Pass,Strong candidate
+100,492,3,HR,2023-11-14,Nina Patel,Pass,Technical skills verified
+101,157,3,Final,2023-06-30,Dev Lead,No Show,Good communication
+102,771,1,Technical,2022-10-04,HR Team,Pass,Good communication
+103,615,1,Phone Screen,2023-07-20,Hiring Manager,Fail,Technical skills verified
+104,236,2,Technical,2024-06-11,Nina Patel,Pass,Good communication
+105,821,1,Phone Screen,2023-07-12,Scott Adams,Fail,Good communication
+106,590,2,Final,2023-03-23,Alice Grant,No Show,Below expectations
+107,387,3,Final,2024-06-11,Hiring Manager,Fail,Strong candidate
+108,565,2,Phone Screen,2024-04-20,VP Engineering,Pass,Below expectations
+109,688,3,Panel,2022-08-04,CTO Panel,No Show,Excellent fit
+110,26,3,HR,2022-12-03,VP Engineering,Pass,Below expectations
+111,547,2,Video,2024-04-27,Alice Grant,No Show,Excellent fit
+112,244,1,Final,2024-06-10,Scott Adams,Rescheduled,Strong candidate
+113,375,2,Final,2024-01-15,Dev Lead,Fail,Needs improvement
+114,285,2,Panel,2024-04-05,Alice Grant,Pass,Needs improvement
+115,592,3,HR,2022-12-02,Hiring Manager,Pass,Excellent fit
+116,33,3,Video,2023-10-27,Jane Doe,Pass,Needs improvement
+117,953,2,Phone Screen,2023-04-30,Tech Architect,Pass,Technical skills verified
+118,956,3,Technical,2024-06-02,Alice Grant,Pass,Technical skills verified
+119,825,1,Phone Screen,2022-12-13,Hiring Manager,Pass,Good communication
+120,633,2,Video,2023-05-31,HR Team,Pass,Good communication
+121,622,3,Phone Screen,2022-09-17,Dev Lead,No Show,Good communication
+122,689,1,Final,2022-12-08,Scott Adams,No Show,Technical skills verified
+123,248,2,Technical,2023-04-19,Mark Stevens,Pass,Below expectations
+124,710,3,Panel,2023-01-17,Scott Adams,Pass,Technical skills verified
+125,691,1,Panel,2023-06-20,Hiring Manager,No Show,Below expectations
+126,196,1,Phone Screen,2023-08-14,Scott Adams,Pass,Needs improvement
+127,437,1,Phone Screen,2024-04-20,Nina Patel,Fail,Excellent fit
+128,563,2,Technical,2023-10-13,Hiring Manager,Rescheduled,Technical skills verified
+129,334,2,Phone Screen,2023-08-28,Tech Architect,Pass,Excellent fit
+130,330,2,Technical,2022-08-17,Alice Grant,Pass,Technical skills verified
+131,393,1,HR,2023-09-20,Nina Patel,Fail,Good communication
+132,824,1,Final,2023-12-16,Alice Grant,No Show,Technical skills verified
+133,110,1,Technical,2022-10-09,Scott Adams,Pass,Below expectations
+134,297,3,Final,2023-03-30,Tech Architect,Rescheduled,Strong candidate
+135,896,1,Video,2023-08-04,Alice Grant,Fail,Below expectations
+136,174,3,HR,2023-01-10,HR Team,Rescheduled,Below expectations
+137,46,3,Technical,2022-10-24,Tech Architect,No Show,Strong candidate
+138,823,1,Panel,2024-02-22,HR Team,Pass,Excellent fit
+139,332,2,Technical,2022-10-02,Mark Stevens,Pass,Good communication
+140,239,2,Video,2023-08-15,Jane Doe,Pass,Technical skills verified
+141,245,2,Video,2022-07-10,Hiring Manager,Rescheduled,Needs improvement
+142,291,3,Technical,2024-04-24,Hiring Manager,Pass,Good communication
+143,58,3,Final,2023-11-26,Dev Lead,Pass,Technical skills verified
